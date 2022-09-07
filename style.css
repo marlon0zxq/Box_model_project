@@ -4,5 +4,15 @@
 }
 .first-box{
     background-color: blue;
+    height: 100px;
+    width: 600px;
+    /* border: 20px solid green; */
+    padding: 100px;
+    margin: 80px;
 
+}
+.second-box{
+    background-color: red;
+    height: ;
+    width: ;
 }
